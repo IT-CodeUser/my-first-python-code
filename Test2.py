@@ -14,7 +14,7 @@ num1=float(input("Enter the first number:"))
 num2=float(input("Enter the second number:"))
 
 total_sum=num1 + num2
-difference=num1 + num2
+difference=num1 - num2
 product=num1 * num2
 
 print(f"sum: {total_sum}")
@@ -49,9 +49,9 @@ print(f"Temperature in fahrenhiet:{fahrenheit:.2f}")
 number =int(input("Enter"))
 
 if number %2==0:
-    print(f"{number} is on even number.")
+    print(f"{number} is an even number.")
 else:
-    print(f"{number} is on odd number.")
+    print(f"{number} is an odd number.")
 
 #-----Test 7:ATM Withdrawal Logic-----
 
