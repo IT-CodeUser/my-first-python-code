@@ -7,3 +7,8 @@ print(Answer)
 
 
 print("it is the day")
+
+print(A="today will be the best day")
+print(B="while today will be the worst day")
+
+print("A + B")
