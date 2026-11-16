@@ -12,3 +12,9 @@ print(A="today will be the best day")
 print(B="while today will be the worst day")
 
 print("A + B")
+
+print("this is my day and time")
+print("Becoming A Producer is my middle name or so...will it")
+
+Answer = 9  + 9
+print(Answer)
