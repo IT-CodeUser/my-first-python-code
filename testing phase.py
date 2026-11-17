@@ -8,13 +8,23 @@ print(Answer)
 
 print("it is the day")
 
-print(A="today will be the best day")
-print(B="while today will be the worst day")
-
-print("A + B")
+print("today will be the best day")
+print("while today will be the worst day")
 
 print("this is my day and time")
 print("Becoming A Producer is my middle name or so...will it")
 
 Answer = 9  + 9
 print(Answer)
+
+#1 -----String Format
+
+name = "John"
+print("Hello, %s!" % name)
+
+Name = "Arie"
+Age = 24
+print("Hello , %s! is %d! years old ,He is a DevSecOps SE." % ( Name , Age))
+
+astring = "Hello world!"
+astring2 = 'Hello world!'
