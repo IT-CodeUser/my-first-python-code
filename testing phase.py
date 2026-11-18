@@ -25,6 +25,4 @@ print("Hello, %s!" % name)
 Name = "Arie"
 Age = 24
 print("Hello , %s! is %d! years old ,He is a DevSecOps SE." % ( Name , Age))
-
-astring = "Hello world!"
-astring2 = 'Hello world!'
+print("what's updat")
