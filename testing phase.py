@@ -25,4 +25,6 @@ print("Hello, %s!" % name)
 Name = "Arie"
 Age = 24
 print("Hello , %s! is %d! years old ,He is a DevSecOps SE." % ( Name , Age))
-print("what's updat")
+print("what's update")
+
+print("Something Wrong")
